@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/mr-rathore-logo.png" width="260" alt="Mr. Rathore Logo">
+<img src="mr-rathore-logo.png" width="260" alt="Mr. Rathore Logo">
 
 # MR.RATHORETEC
 
